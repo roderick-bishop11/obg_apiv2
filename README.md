@@ -9,15 +9,8 @@ This API is a passion project, and aims to be an API that focuses on African-Ame
 
 Each piece of our history is a "gem" and it's important that they are admired and learned about. It's so culturally important to have access to your history, and your value, especially in a place where we aren't so fortunate as to be valued.
 
-It's my hope that this API will help African-American history be more accessible and that others will help to contribute to the cause. We have to educate ourselves on who we are and it starts here.
+It's my hope that this API will help African-American history become more accessible and that others will help to contribute to the cause. We have to educate ourselves on who we are and it starts here.
 
-## How to run
-
-This project was built using Python 3.6 and Flask.
-
-On PC, you can install Python using ___
-
-On Mac, simply use homebrew `brew install python`, and while in your project directory `pip install flask` or if using Pip3 `pip3 install flask`
 
 ## Contribution
 
